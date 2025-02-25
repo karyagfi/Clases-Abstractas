@@ -3,7 +3,7 @@ from electrodomestico import Lavadora, Refrigerador
 from archivo import ArchivoTexto, ArchivoImagen
 from Retos.transporte import Autobus, Tren
 from Retos.dispositivo import Telefono, Computadora
-from Retos.evaluar import Evaluacion, Examen, Proyecto
+from Retos.evaluar import Examen, Proyecto
     
 # Creamos la lista de animales y llamamos a sus métodos
 animales = [Perro(), Pajaro()]
