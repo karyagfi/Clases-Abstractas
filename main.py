@@ -5,7 +5,7 @@ from Retos.transporte import Autobus, Tren
 from Retos.dispositivo import Telefono, Computadora
 from Retos.evaluar import Examen, Proyecto
     
-# Creamos la lista de animales y llamamos a sus métodos
+# # Creamos la lista de animales y llamamos a sus métodos
 animales = [Perro(), Pajaro()]
 
 for animal in animales:
